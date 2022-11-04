@@ -1,6 +1,6 @@
 {
   "name": "http-status-ts",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "http-status-ts",
   "type": "module",
   "exports": {
