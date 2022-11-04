@@ -1,2 +1,2 @@
-export * from "./HttpMethod";
-export * from "./HttpStatus";
+export * from "./HttpMethod.js";
+export * from "./HttpStatus.js";
